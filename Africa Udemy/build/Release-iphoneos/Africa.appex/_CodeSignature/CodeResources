@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>Assets.car</key>
+		<data>
+		yA0JLucaP47lbd6Y1bAFOO/IvEQ=
+		</data>
+		<key>Info.plist</key>
+		<data>
+		ISvRPqiPctRZyLMgBr3f59LZ2BU=
+		</data>
+		<key>Sticker Pack.stickerpack/Info.plist</key>
+		<data>
+		hOppct4WrApijOZ6D6Y5H53s9Y4=
+		</data>
+		<key>Sticker Pack.stickerpack/sticker-cheetah.png</key>
+		<data>
+		LIlHXY+qyfR3km5MoJHYG6llR6s=
+		</data>
+		<key>Sticker Pack.stickerpack/sticker-elephant.png</key>
+		<data>
+		PECsn+F/cTJ1pfEAEPwrsabqTm4=
+		</data>
+		<key>Sticker Pack.stickerpack/sticker-giraffe.png</key>
+		<data>
+		uhHbazaECsseCFzBew4+bMjJzoc=
+		</data>
+		<key>Sticker Pack.stickerpack/sticker-gorilla.png</key>
+		<data>
+		smRr7WJVbtu79YEmcsO5JPOG8Vc=
+		</data>
+		<key>Sticker Pack.stickerpack/sticker-lion.png</key>
+		<data>
+		yRf3S7bft3n66iR/i00tM2qaPrI=
+		</data>
+		<key>Sticker Pack.stickerpack/sticker-zebra.png</key>
+		<data>
+		ALZPwwMv11lvU/QtxoTiDwnl3Hs=
+		</data>
+		<key>embedded.mobileprovision</key>
+		<data>
+		wfwT361k/hU5I5YfJf0DO0jeDHQ=
+		</data>
+		<key>iMessage App Icon27x20@2x.png</key>
+		<data>
+		HyeVQVNxehggPhdZe8UnhKgV95I=
+		</data>
+		<key>iMessage App Icon27x20@3x.png</key>
+		<data>
+		Ugmvt0IZv5EJv9vZuY1qgmhH5FQ=
+		</data>
+		<key>iMessage App Icon32x24@2x.png</key>
+		<data>
+		UnBBWn63HuQw9/Ww54vyrUGoHZc=
+		</data>
+		<key>iMessage App Icon32x24@3x.png</key>
+		<data>
+		P+/BnEbPc4YABCIz/uSOVbld6Ko=
+		</data>
+		<key>iMessage App Icon60x45@2x.png</key>
+		<data>
+		S2hyyBOa5yBvPQT95BwXi0umsxs=
+		</data>
+		<key>iMessage App Icon60x45@3x.png</key>
+		<data>
+		t2knVIPzUhlkzcjBGjQ2AquPPoM=
+		</data>
+		<key>iMessage App Icon67x50@2x.png</key>
+		<data>
+		DG5SgBQ8rjZyDZ4k7MSkccAymAc=
+		</data>
+		<key>iMessage App Icon74x55@2x.png</key>
+		<data>
+		yl54DlCiWmAzQ3PL4yWNUptoBS0=
+		</data>
+	</dict>
+	<key>files2</key>
+	<dict>
+		<key>Assets.car</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yA0JLucaP47lbd6Y1bAFOO/IvEQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			I6vjuyJ2ixx/kL6FDLlP4MYbAHQHZ7kbNuiXuYVG/7w=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hOppct4WrApijOZ6D6Y5H53s9Y4=
+			</data>
+			<key>hash2</key>
+			<data>
+			qhr4MdB7900xmqLtQyIzCK0YY9OKqFZR//35AmSTWcQ=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/sticker-cheetah.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LIlHXY+qyfR3km5MoJHYG6llR6s=
+			</data>
+			<key>hash2</key>
+			<data>
+			oG7RDLG2XvgwzL9BWZ3qDLKd/yefnT6jbpzCDXIKoW4=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/sticker-elephant.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PECsn+F/cTJ1pfEAEPwrsabqTm4=
+			</data>
+			<key>hash2</key>
+			<data>
+			58d1CoJ68hXQskW1/smT1EZUnjj++0/LaF58JUK/IRA=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/sticker-giraffe.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uhHbazaECsseCFzBew4+bMjJzoc=
+			</data>
+			<key>hash2</key>
+			<data>
+			BPc9fdPtd04ar4JJ8B8SMmZRw3MeLBRZeiUGOSTk4G8=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/sticker-gorilla.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			smRr7WJVbtu79YEmcsO5JPOG8Vc=
+			</data>
+			<key>hash2</key>
+			<data>
+			7A7cI6oSairhYVOInw4HpCRxtc+TFSWIG9LAhWfiTmU=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/sticker-lion.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yRf3S7bft3n66iR/i00tM2qaPrI=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZbLQTbtnpYCUom2xL/fJ4j/e3CsUZeiVmu+KULjDmq8=
+			</data>
+		</dict>
+		<key>Sticker Pack.stickerpack/sticker-zebra.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ALZPwwMv11lvU/QtxoTiDwnl3Hs=
+			</data>
+			<key>hash2</key>
+			<data>
+			/d9K95rUh151X6RUT66II7+eJvSo+uSqRRaEuEvgj9Y=
+			</data>
+		</dict>
+		<key>embedded.mobileprovision</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wfwT361k/hU5I5YfJf0DO0jeDHQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			w3ILGe5ip6LMmDU1RNhPYJFzipjexRAnh7MeMM1Dd1I=
+			</data>
+		</dict>
+		<key>iMessage App Icon27x20@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HyeVQVNxehggPhdZe8UnhKgV95I=
+			</data>
+			<key>hash2</key>
+			<data>
+			4Hbu1M22wp4wb2fAcjTXyP3+FBvaUZSmC4Jxi6GqQyI=
+			</data>
+		</dict>
+		<key>iMessage App Icon27x20@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ugmvt0IZv5EJv9vZuY1qgmhH5FQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			iqxpldhUn8lTmCzkkycX4P3/8nFfJ6Qtpq9P2nz8cMs=
+			</data>
+		</dict>
+		<key>iMessage App Icon32x24@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UnBBWn63HuQw9/Ww54vyrUGoHZc=
+			</data>
+			<key>hash2</key>
+			<data>
+			amaKA67jHkXgf0somN822JV8fi7iFBMNjil3ady1zqg=
+			</data>
+		</dict>
+		<key>iMessage App Icon32x24@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			P+/BnEbPc4YABCIz/uSOVbld6Ko=
+			</data>
+			<key>hash2</key>
+			<data>
+			V14Yc157JSqOalaTuc1iUHOaX7Tivd9ARJM2jT9Ljhs=
+			</data>
+		</dict>
+		<key>iMessage App Icon60x45@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			S2hyyBOa5yBvPQT95BwXi0umsxs=
+			</data>
+			<key>hash2</key>
+			<data>
+			+qasZLNj873rZOyE4sPw4JmYdHfWn91awbEb/n2Vxio=
+			</data>
+		</dict>
+		<key>iMessage App Icon60x45@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			t2knVIPzUhlkzcjBGjQ2AquPPoM=
+			</data>
+			<key>hash2</key>
+			<data>
+			YE/sOpQrUXltsyaAzyRTrTSropcO8s9dJJg6IiB05ag=
+			</data>
+		</dict>
+		<key>iMessage App Icon67x50@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DG5SgBQ8rjZyDZ4k7MSkccAymAc=
+			</data>
+			<key>hash2</key>
+			<data>
+			T/b4ZpcGy/5KAauhr6EsiBvP0fOliehb/p+7IKMSy/U=
+			</data>
+		</dict>
+		<key>iMessage App Icon74x55@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yl54DlCiWmAzQ3PL4yWNUptoBS0=
+			</data>
+			<key>hash2</key>
+			<data>
+			jG4zigtcqptuejAJ6IRnfD0jbdW2Ihg42iwH+RyDPag=
+			</data>
+		</dict>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>^.*</key>
+		<true/>
+		<key>^.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
+		<key>^version.plist$</key>
+		<true/>
+	</dict>
+	<key>rules2</key>
+	<dict>
+		<key>.*\.dSYM($|/)</key>
+		<dict>
+			<key>weight</key>
+			<real>11</real>
+		</dict>
+		<key>^(.*/)?\.DS_Store$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>2000</real>
+		</dict>
+		<key>^.*</key>
+		<true/>
+		<key>^.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
+		<key>^Info\.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^PkgInfo$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^embedded\.provisionprofile$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^version\.plist$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+	</dict>
+</dict>
+</plist>
